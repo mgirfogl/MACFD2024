@@ -1,0 +1,4 @@
+scalarTransportFoam2.C
+
+EXE = /scratch/mgirfogl/esercizi/code/scalarTransportFoam/scalarTransportFoam2
+

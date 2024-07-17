@@ -1,0 +1,4 @@
+SOURCE = \
+scalarTransportFoam2.C \
+
+# sources

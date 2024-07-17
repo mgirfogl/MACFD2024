@@ -1,0 +1,4 @@
+icoFoam_modified.C
+
+EXE = /scratch/mgirfogl/esercizi/code/icoFoam/icoFoam_modified
+
